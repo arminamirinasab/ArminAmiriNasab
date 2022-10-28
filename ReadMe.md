@@ -21,5 +21,8 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arminamirinasab) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+<img src="https://raw.githubusercontent.com/arminamirinasab/arminamirinasab/blob/output/snake.svg" alt="Snake animation" />
   
