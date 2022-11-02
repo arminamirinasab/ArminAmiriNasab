@@ -16,7 +16,7 @@
 <p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning React<br>🎯 Freelancing<br><br>🖤 Programming is learning a series of simple codes that form a cool complex.</p>
 
 ###
-<h2 align="left">My Skills</h2>
+<h2 align="left">My Skills 👩‍💻</h2>
 
 ###
 
