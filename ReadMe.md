@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👨‍💻 I'm Armin Amiri Nasab</h1>
 
 ###
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" style="width: 100%;">
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" style="width: 100vw;">
+[![](https://visitcount.itsvg.in/api?id=arminamirinasab&icon=7&color=1)](https://visitcount.itsvg.in)
 ###
 
 <p align="left">My name is Armin Amiri Nasab, a Web Developer. I remember when I first touched one of the keys on the keyboard, I was 4 years old. That was the day I found my interest, something that excited me, and when I thought about it, my heart beat My heart was growing. At the age of 13, I wrote my first program, a simple game that could introduce me to the big world of programming. Now, a few years have passed since that story and I was able to become a freelancer and offer my services without face-to-face contact. reach a few tens of people, I help the open source community on my GitHub page and try to make the world a better place with my small code :)</p>
